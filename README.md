@@ -27,5 +27,3 @@ Computer Science student at UTP. I enjoy homelabbing, computer networking, and P
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hafeezf1tri&show_icons=true&theme=tokyonight)
 
 ---
-
-Thanks for visiting — feel free to connect!
