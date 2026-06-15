@@ -1,4 +1,4 @@
-# Hi, I'm hafeezf1tri 👋
+# hi, hafeez here
 
 Computer Science student at UTP. I enjoy homelabbing, computer networking, and Python development.
 
