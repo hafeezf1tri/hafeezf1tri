@@ -1,13 +1,13 @@
-# Hi, I'm hafeezf1tri 👋
+# hi i'm hafeez
 
 Computer Science student at UTP. I enjoy homelabbing, computer networking, and Python development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafeezf1tri&layout=compact&theme=tokyonight)](https://github.com/hafeezf1tri)
 
 ## 🔭 Pinned Projects
-- Project 1 — short description (replace with your pinned repo links)
-- Project 2 — short description
-- Project 3 — short description
+- Project 1 — https://github.com/hafeezf1tri/project-recommender-movie-g10
+- Project 2 — https://github.com/hafeezf1tri/datavisualisation
+- Project 3 — https://github.com/hafeezf1tri/Inclass-Group-Campus-Dashboard
 
 ## 💡 Interests & Skills
 - Homelabbing: home servers, virtualization, routing
@@ -16,8 +16,8 @@ Computer Science student at UTP. I enjoy homelabbing, computer networking, and P
 - Tools: Docker, Git, GitHub Actions, Linux
 
 ## 📫 Contact
-- Twitter: [@your_handle](https://twitter.com/your_handle)
-- Email: your.email@example.com
+
+ - Email: hafeez1fitri@gmail.com
  - Website: https://hafeez.my
 
 ---
@@ -28,4 +28,3 @@ Computer Science student at UTP. I enjoy homelabbing, computer networking, and P
 
 ---
 
-Thanks for visiting — feel free to connect!
